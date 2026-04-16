@@ -77,8 +77,8 @@
 ## 五、压缩与解压
 
   ```bash
-  tar -czf a.tar.gz dir     # 压缩
-  tar -xzf a.tar.gz        # 解压
+  tar -czf a.tar.gz dir     # 压缩 -z gz 
+  tar -xzf a.tar.gz        # 解压 -J xz
   ```
 
 
